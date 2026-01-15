@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HappyTicket/1.0.0": {
+        "runtime": {
+          "HappyTicket.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HappyTicket/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

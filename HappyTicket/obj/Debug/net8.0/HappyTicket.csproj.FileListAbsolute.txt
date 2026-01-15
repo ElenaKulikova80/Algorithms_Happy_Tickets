@@ -1,0 +1,14 @@
+C:\Users\kulik\source\repos\HappyTicket\HappyTicket\obj\Debug\net8.0\HappyTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulik\source\repos\HappyTicket\HappyTicket\obj\Debug\net8.0\HappyTicket.AssemblyInfoInputs.cache
+C:\Users\kulik\source\repos\HappyTicket\HappyTicket\obj\Debug\net8.0\HappyTicket.AssemblyInfo.cs
+C:\Users\kulik\source\repos\HappyTicket\HappyTicket\obj\Debug\net8.0\HappyTicket.csproj.CoreCompileInputs.cache
+C:\Users\kulik\source\repos\HappyTicket\HappyTicket\bin\Debug\net8.0\HappyTicket.exe
+C:\Users\kulik\source\repos\HappyTicket\HappyTicket\bin\Debug\net8.0\HappyTicket.deps.json
+C:\Users\kulik\source\repos\HappyTicket\HappyTicket\bin\Debug\net8.0\HappyTicket.runtimeconfig.json
+C:\Users\kulik\source\repos\HappyTicket\HappyTicket\bin\Debug\net8.0\HappyTicket.dll
+C:\Users\kulik\source\repos\HappyTicket\HappyTicket\bin\Debug\net8.0\HappyTicket.pdb
+C:\Users\kulik\source\repos\HappyTicket\HappyTicket\obj\Debug\net8.0\HappyTicket.dll
+C:\Users\kulik\source\repos\HappyTicket\HappyTicket\obj\Debug\net8.0\refint\HappyTicket.dll
+C:\Users\kulik\source\repos\HappyTicket\HappyTicket\obj\Debug\net8.0\HappyTicket.pdb
+C:\Users\kulik\source\repos\HappyTicket\HappyTicket\obj\Debug\net8.0\HappyTicket.genruntimeconfig.cache
+C:\Users\kulik\source\repos\HappyTicket\HappyTicket\obj\Debug\net8.0\ref\HappyTicket.dll
